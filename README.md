@@ -4,9 +4,9 @@
 - 🗒️ Graduating in Systems Analysis and Development
 
 <div align="center">
-  <a href="https://github.com/LucasMeloSena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMeloSena&show_icons=true&count_private=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMeloSena&layout=compact&theme=dark"/>
+  <a href="https://github.com/arthuralvesmf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurAlves&show_icons=true&count_private=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlves&layout=compact&theme=dark"/>
 </div>
 
 
